@@ -1,4 +1,9 @@
-# Udhgam - AI Bureaucracy Assistant
+# Udhgam – AI Bureaucracy Assistant
+
+🌐 **Live Application:**  
+👉 https://coffeencode-udhgam-vercel.vercel.app/
+
+---
 
 Udhgam is a comprehensive AI-powered platform designed to simplify the navigation of government bureaucracy and schemes. It acts as a bridge between complex government procedures and citizens, offering multilingual support and eligibility checks to ensure users can easily access the benefits they are entitled to.
 
@@ -6,7 +11,7 @@ Udhgam is a comprehensive AI-powered platform designed to simplify the navigatio
 
 - **Government Schemes Information**: Detailed repository of various government schemes.
 - **Eligibility Checker**: Interactive tools to help users determine their eligibility for specific schemes.
-- **Multilingual Support**: content available in English, Hindi, and Telugu (and more) to cater to a diverse user base.
+- **Multilingual Support**: Content available in English, Hindi, and Telugu (and more) to cater to a diverse user base.
 - **User-Friendly Interface**: A modern, responsive web application built for ease of use.
 - **Document Assistance**: Helpers to guide users through necessary documentation.
 
@@ -33,24 +38,16 @@ Udhgam is a comprehensive AI-powered platform designed to simplify the navigatio
 1. Navigate to the frontend directory:
    ```bash
    cd frontend
-   ```
-
 2. Install dependencies:
-   ```bash
    npm install
-   ```
-
 3. Start the development server:
-   ```bash
    npm run dev
-   ```
 
-4. Open your browser and visit `http://localhost:5173` to view the application.
+🤝 Contributing
 
-## 🤝 Contributing
+Contributions are welcome. Feel free to submit a Pull Request.
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+📄 License
 
-## 📄 License
-
-This project is open-source. Please see the [LICENSE](LICENSE) file for more details.
+This project is open-source. Please see the LICENSE
+ file for more details.
